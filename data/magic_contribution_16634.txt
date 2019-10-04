@@ -1,0 +1,15 @@
+﻿tab delimited	contribution
+id	version	timestamp	contributor	data_model_version	reference
+16634	1	2019-04-04T00:41:33.692Z	@polarwand	3.0	10.1016/J.PRECAMRES.2010.01.012
+>>>>>>>>>>
+tab delimited	locations
+location	location_type	geologic_classes	lithologies	lat_s	lat_n	lon_w	lon_e	country	age_low	age_high	age_unit
+Midcontinent Rift	Region	Intrusive	Diabase	48.03	48.34	270.2	270.7	Canada	1085	1115	Ma
+>>>>>>>>>>
+tab delimited	sites
+site	location	result_type	result_quality	method_codes	citations	geologic_classes	geologic_types	lithologies	lat	lon	age	age_sigma	age_unit	dir_tilt_correction	dir_dec	dir_inc	dir_alpha95	dir_k	dir_n_samples	dir_n_specimens	dir_n_total_specimens	description
+RD sill	Midcontinent Rift	i	g	LT-AF-Z	This study	Intrusive:Igneous	Diabase	Gabbronorite	48.34	270.66	1110	10	Ma	0	106	-57	15	66	3	3	3	"At Riverdale quarry (Site RDS), a gabbronoritic sill intruded Rove Formation shale and is cut by a 0.6 m wide dike that trends due north. "
+RD dike	Midcontinent Rift	i	g	LT-AF-Z	This study	Intrusive:Igneous	Diabase	Diabase	48.34	270.66	1110	10	Ma	0	105	-73	8	215	3	3	3	"At Riverdale quarry (Site RDS), a gabbronoritic sill intruded Rove Formation shale and is cut by a 0.6 m wide dike that trends due north. Dike trend is north"
+AR dike	Midcontinent Rift	i	g	LT-AF-Z	This study	Intrusive:Igneous	Diabase	Diabase	48.03591667	270.2727778	1095	10	Ma	0	298	52	6	142	5	5	5	"The Arrow River dike (Site ARD) is a 40m wide northeast-trending dike, but chilled margins are not exposed. Dike trend is northeast."
+RB dike	Midcontinent Rift	i	g	LT-AF-Z	This study	Intrusive:Igneous	Diabase	Diabase	48.04694444	270.455	1095	10	Ma	0	305	48	3	270	8	8	8	"The northeast-trending Rita Bolduc dike (Site RBD) is approximately 85 m wide. Samples were collected from the dike interior, the chilled margin. Dike trend is northeast."
+CR dike	Midcontinent Rift	i	g	LT-AF-Z	This study	Intrusive:Igneous	Diabase	Rhyolitic Lava	48.08522222	270.4952778	1109.2	4.2	Ma	0	82	-50			2	2	2	The northwest-trending Cloud River dike (at Site CRD) is approximately 100 m wide. Only the dike interior is exposed. Dike trend is northwest.
